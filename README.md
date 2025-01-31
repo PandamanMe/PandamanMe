@@ -38,11 +38,11 @@ When I’m not coding, you’ll find me experimenting with **animations**, explo
 
 ### 🚀 What I Do  
 
-- **Web Development**: Building **high-performance web apps** with modern frameworks like React and Next.js.  
-- **UI/UX Design**: Crafting **intuitive, visually appealing interfaces** that enhance user engagement.  
-- **Full-Stack Integration**: Seamlessly connecting **frontend and backend systems** for robust applications.  
-- **Animations & 3D**: Adding **interactive elements** and **immersive experiences** with GSAP, Three.js, and more.  
-- **E-commerce Solutions**: Developing **scalable e-commerce platforms** with real-time inventory and secure payments.  
+- **🌐 Web Development**: Building **high-performance web apps** with modern frameworks like React and Next.js.  
+- **🎨 UI/UX Design**: Crafting **intuitive, visually appealing interfaces** that enhance user engagement.  
+- **🔗 Full-Stack Integration**: Seamlessly connecting **frontend and backend systems** for robust applications.  
+- **✨ Animations & 3D**: Adding **interactive elements** and **immersive experiences** with GSAP, Three.js, and more.  
+- **🛒 E-commerce Solutions**: Developing **scalable e-commerce platforms** with real-time inventory and secure payments.  
 
 ---  
 
