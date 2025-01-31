@@ -13,7 +13,7 @@
 
 I’m a **web developer** and **UI/UX enthusiast** with a passion for crafting **dynamic, user-centric solutions**. My expertise lies in building **scalable web applications**, designing **intuitive interfaces**, and creating **immersive digital experiences**. I thrive on solving complex problems with clean, efficient code and innovative design.  
 
-When I’m not coding, you’ll find me experimenting with **animations**, exploring **3D design**, or brainstorming ways to make the web a more engaging place.  
+When I’m not coding, you’ll find me experimenting with **animations**, exploring **3D design**, Game development, or brainstorming ways to make the web a more engaging place.  
 
 ---  
 
@@ -46,36 +46,9 @@ When I’m not coding, you’ll find me experimenting with **animations**, explo
 
 ---  
 
-### 🌟 Featured Projects  
-
-Here are some highlights of my work:  
-
-- **Healthcare Web App**: A platform for booking scans and appointments with user authentication and API integrations.  
-- **E-commerce Platform**: A full-stack solution featuring real-time inventory management and secure payment processing.  
-- **Career Platform**: A modern, user-friendly platform built with Next.js and React for seamless job searching.  
-- **Q&A Web App**: A question-and-answer platform with authentication, developed using the MERN stack.  
-
----  
-
 ### 🎨 Fun Fact  
 
 I believe that **great design** and **clean code** go hand in hand. Whether it’s a sleek UI or a robust backend, I’m always excited to tackle new challenges and push the boundaries of what’s possible.  
-
----  
-
-### 📫 Let’s Connect  
-
-<p align="center">  
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
-  </a>  
-  <a href="https://twitter.com/yourhandle" target="_blank">  
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />  
-  </a>  
-  <a href="mailto:youremail@example.com" target="_blank">  
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />  
-  </a>  
-</p>  
 
 ---  
 
