@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me  
 
-I’m a **web developer** and **UI/UX enthusiast** with a passion for crafting **dynamic, user-centric solutions**. Building **scalable web applications**, designing **intuitive interfaces**, and creating **immersive digital experiences**. Solving complex problems with clean, efficient code and innovative design.  
+**Web developer** and **UI/UX enthusiast** with a passion for crafting **dynamic, user-centric solutions**. Building **scalable web applications**, designing **intuitive interfaces**, and creating **immersive digital experiences**. Solving complex problems with clean, efficient code and innovative design.  
 
 Experimenting with **animations**, exploring **3D design**, Game development, and brainstorming ways to make the web a more engaging place.  
 
@@ -64,11 +64,5 @@ Experimenting with **animations**, exploring **3D design**, Game development, an
 - **🔗 Full-Stack Integration**: Seamlessly connecting **frontend and backend systems** for robust applications.  
 - **✨ Animations & 3D**: Adding **interactive elements** and **immersive experiences** with GSAP, Three.js, and more.  
 - **🛒 E-commerce Solutions**: Developing **scalable e-commerce platforms** with real-time inventory and secure payments.  
-
----  
-
-### 🎨 Fun Fact  
-
-I believe that **great design** and **clean code** go hand in hand. Whether it’s a sleek UI or a robust backend, I’m always excited to tackle new challenges and push the boundaries of what’s possible.  
 
 ---  
