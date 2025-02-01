@@ -27,7 +27,7 @@ Experimenting with **animations**, exploring **3D design**, Game development, an
 - **Backend & Full-Stack**:  
   - Node.js, Express.js, Python, PHP  
   - Databases: 🗄️ MongoDB, SQL  
-  - API Integration & Cloud Deployment: ☁️ AWS, Docker, Vercel  
+  - API Integration & Cloud Deployment: ☁️ AWS, Docker, Vercel, Firebase
 - **UI/UX Design**:  
   - Tools: 🎨 Figma, Sketch
   - Principles: User-centered design, responsive layouts, micro-interactions  
