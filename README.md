@@ -20,8 +20,7 @@ Experimenting with **animations**, exploring **3D design**, Game development, an
 ### 🛠️ Skills & Technologies  
 
 - **Frontend Development**:  
-  - Languages: 📜 HTML5, CSS3, JavaScript (ES6+)  
-  - Frameworks: ⚛️ React, Next.js, Angular  
+  - HTML5, CSS3, JavaScript, ⚛️ React, Next.js, Angular
   - Styling: 🎨 Tailwind CSS, Bootstrap 
   - Animations: ✨ GSAP, Three.js, Spline3D, Rive, Framer Motion  
 - **Backend & Full-Stack**:  
