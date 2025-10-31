@@ -11,7 +11,9 @@
 
 ### 👨‍💻 About Me  
 
+**Web developer** and **UI/UX enthusiast** with a passion for crafting **dynamic, user-centric solutions**. Building **scalable web applications**, designing **intuitive interfaces**, and creating **immersive digital experiences**. Solving complex problems with clean, efficient code and innovative design.  
 
+Experimenting with **animations**, exploring **3D design**, Game development, and brainstorming ways to make the web a more engaging place.  
 
 ---  
 
