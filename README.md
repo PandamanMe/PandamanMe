@@ -3,9 +3,7 @@
   <em>Web Developer & UI/UX Enthusiast 🚀 | Turning Ideas into Interactive Experiences ✨</em>  
 </p>  
 
-<p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Building+scalable+web+apps+%F0%9F%9A%80;Designing+with+%E2%9C%A8+magic;Creating+seamless+user+experiences+%F0%9F%91%8B" alt="Typing SVG" />  
-</p>  
+  
 
 ---  
 
